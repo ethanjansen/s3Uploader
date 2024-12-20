@@ -1,0 +1,6 @@
+[default]
+region = us-west-2
+output = text
+s3 =
+    multipart_threshold = 24MB
+    multipart_chunksize = 24MB
